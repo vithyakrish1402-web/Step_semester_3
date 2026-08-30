@@ -1,0 +1,5 @@
+# IDE and AI files
+.idea/
+.ai/
+*.class
+*.iml
