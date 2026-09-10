@@ -1,5 +1,19 @@
 # Step_semester_3
 
+## Date: 10-09-2026
+
+**Today's Work:**
+- Practiced Java access modifiers (private, default, protected, public), encapsulation, and immutability.
+- Solved Week 5 problems on access classification, boundary-safe seat management, JavaBean OTP property, and immutable receipts with defensive copying.
+
+**Next Session Plan:**
+- Prepare for Session 6 topics.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 30-08-2026
 
 **Today's Work:**
