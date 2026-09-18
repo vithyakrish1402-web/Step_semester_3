@@ -4,7 +4,7 @@
 
 **Today's Work:**
 - Practiced single, multilevel, and hierarchical inheritance, super constructor forwarding, and method overriding.
-- Solved Week 6 practice problems on batch enrollment validation, generation classification, defensive fine ledgers, polymorphic circulation reporting, and nightly audits.
+- Solved Week 6 class and assignment problems on batch sign-up validation, membership tiers, late fee ledgers, polymorphic attendance announcing, and weekly check-in settlements.
 
 **Next Session Plan:**
 - Prepare for Session 7 topics.
