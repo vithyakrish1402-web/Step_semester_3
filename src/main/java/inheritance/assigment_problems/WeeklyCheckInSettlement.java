@@ -1,0 +1,25 @@
+package inheritance.assigment_problems;
+
+public class WeeklyCheckInSettlement {
+
+    public static void main(String[] args) {
+        GymMember m1 = new GymMember(1000);
+        System.out.println(m1.membershipNumber);
+        System.out.println(GymMember.getMembersEnrolled());
+
+        System.out.println(GymMember.isValidReferralCode("G45B"));
+        System.out.println(GymMember.isValidReferralCode("G4B"));
+        System.out.println(GymMember.isValidReferralCode("X45B"));
+
+        m1.payFee(500);
+        m1.payFee(500, "UPI");
+        System.out.println(m1.getFeesPaid());
+
+        GymMember[] batch = {
+            new GroupClassMember(1500, "Zumba"),
+            null,
+            new GymMember(1000)
+        };
+        System.out.println(GymMember.processWeeklyCheckIn(batch));
+    }
+}
