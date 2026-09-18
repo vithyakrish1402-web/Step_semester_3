@@ -1,5 +1,19 @@
 # Step_semester_3
 
+## Date: 18-09-2026
+
+**Today's Work:**
+- Practiced single, multilevel, and hierarchical inheritance, super constructor forwarding, and method overriding.
+- Solved Week 6 practice problems on batch enrollment validation, generation classification, defensive fine ledgers, polymorphic circulation reporting, and nightly audits.
+
+**Next Session Plan:**
+- Prepare for Session 7 topics.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 10-09-2026
 
 **Today's Work:**
