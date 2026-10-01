@@ -4,11 +4,12 @@
 
 **Today's Work:**
 - Practiced Object-Oriented Design (OOD) principles, UML relationship modeling (Association, Aggregation, Composition, Generalization, Realization), and state management.
-- Solved Week 8 practice problems: Vehicle Rental System (polymorphic vehicle charges and availability tracking), Employee Leave Request Workflow (state transitions and policy validation), Online Examination System (polymorphic self-evaluating questions and immutable attempt submission), Hotel Booking System (room reservations and cancellation deadline enforcement), and Shopping Payment Processing (pluggable payment methods and order validation).
+- Solved Week 8 class problems: Vehicle Rental System (polymorphic vehicle charges and availability tracking), Employee Leave Request Workflow (state transitions and policy validation), Online Examination System (polymorphic self-evaluating questions and immutable attempt submission), Hotel Booking System (room reservations and cancellation deadline enforcement), and Shopping Payment Processing (pluggable payment methods and order validation).
+- Solved Week 8 Category B assignment problems: The Hostel Laundry Queue (wash type strategy and machine availability), The Assignment Submission Portal (late penalty calculation and grading state transition guards), The Campus Premiere Ticket Counter (seat categories and booking cancellation rules), The FitZone Membership Desk (membership plans, fee discounts, and active/frozen/expired states), and The Campus Notice Broadcaster (multi-channel polymorphic notice delivery and department filtering).
 - Answered Week 8 quiz questions and comprehensive concept questions on Encapsulation, Composition vs. Inheritance, Polymorphic Abstractions, Lifecycle Dependencies, and UML Multiplicity Constraints.
 
 **Next Session Plan:**
-- Prepare for Session 8 assignment problems.
+- Prepare for Session 9 topics.
 
 **Issues Faced:**
 - None
