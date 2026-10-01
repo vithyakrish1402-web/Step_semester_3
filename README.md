@@ -4,7 +4,7 @@
 
 **Today's Work:**
 - Practiced abstract classes, abstract methods, interfaces, and compile-time/runtime polymorphism.
-- Solved Week 7 practice problems on abstract toy hierarchies, warehouse printable labels, multilevel orchestra warm-up routines, washable smart kitchen tools, and polymorphic package delivery drop-off logging.
+- Solved Week 7 class and assignment problems on abstract toy hierarchies, warehouse printable labels, multilevel orchestra warm-up routines, washable smart kitchen tools, polymorphic package delivery drop-off logging, wake-up circuit interfaces, gallery description cards, backyard toolshed routines, chargeable classroom devices, and skyline delivery fleet tracking.
 
 **Next Session Plan:**
 - Prepare for Session 8 topics.
