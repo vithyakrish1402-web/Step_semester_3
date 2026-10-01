@@ -3,6 +3,21 @@
 ## Date: 01-10-2026
 
 **Today's Work:**
+- Practiced Object-Oriented Design (OOD) principles, UML relationship modeling (Association, Aggregation, Composition, Generalization, Realization), and state management.
+- Solved Week 8 practice problems: Vehicle Rental System (polymorphic vehicle charges and availability tracking), Employee Leave Request Workflow (state transitions and policy validation), Online Examination System (polymorphic self-evaluating questions and immutable attempt submission), Hotel Booking System (room reservations and cancellation deadline enforcement), and Shopping Payment Processing (pluggable payment methods and order validation).
+- Answered Week 8 quiz questions and comprehensive concept questions on Encapsulation, Composition vs. Inheritance, Polymorphic Abstractions, Lifecycle Dependencies, and UML Multiplicity Constraints.
+
+**Next Session Plan:**
+- Prepare for Session 8 assignment problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 01-10-2026
+
+**Today's Work:**
 - Practiced abstract classes, abstract methods, interfaces, and compile-time/runtime polymorphism.
 - Solved Week 7 class and assignment problems on abstract toy hierarchies, warehouse printable labels, multilevel orchestra warm-up routines, washable smart kitchen tools, polymorphic package delivery drop-off logging, wake-up circuit interfaces, gallery description cards, backyard toolshed routines, chargeable classroom devices, and skyline delivery fleet tracking.
 
