@@ -1,5 +1,19 @@
 # Step_semester_3
 
+## Date: 01-10-2026
+
+**Today's Work:**
+- Practiced abstract classes, abstract methods, interfaces, and compile-time/runtime polymorphism.
+- Solved Week 7 practice problems on abstract toy hierarchies, warehouse printable labels, multilevel orchestra warm-up routines, washable smart kitchen tools, and polymorphic package delivery drop-off logging.
+
+**Next Session Plan:**
+- Prepare for Session 8 topics.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 18-09-2026
 
 **Today's Work:**
