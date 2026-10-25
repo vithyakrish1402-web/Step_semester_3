@@ -5,7 +5,7 @@
 **Today's Work:**
 - Covered Advanced OOP Architecture, Polymorphism, Type Systems, Interface Contracts, and Singly Linked List Data Structures.
 - Solved Week 10 class problems: Bank Account Withdrawal System (polymorphic account rules, minimum balance & overdraft management), Campus Vehicle Pass System (vehicle hierarchy with Chargeable interface for electric bay allotment), Student Club Registration Management (roll-number based content equality via equals() and hashCode()), Class Marks Grid Analysis (2D array statistics, student totals, subject averages, and topper identification), and Payroll Register System (polymorphic staff salary calculation and payslip formatting).
-- Solved Week 10 Category B assignment problems: Priority Token Insertion (custom Singly Linked List with addFirst, addLast, and positional insertAt operations).
+- Solved Week 10 Category B assignment problems: Priority Token Insertion (custom Singly Linked List with addFirst, addLast, and positional insertAt operations) and Cancelled Orders Cleanup (in-place removal of target nodes across head and internal list positions).
 - Answered Week 10 quiz questions (20 questions) and comprehensive concept questions (10 questions) on method resolution, constructor chaining, abstract classes vs interfaces, equals/hashCode contract, deep copying, and dynamic method dispatch.
 
 **Next Session Plan:**
