@@ -3,12 +3,13 @@
 ## Date: 25-10-2026
 
 **Today's Work:**
-- Covered Data Structures & Algorithms (DSA): 1D & 2D Arrays, Asymptotic Analysis (Big-O, Time vs. Space Trade-offs), Binary Search, and Two-Pointer / Hashing Techniques.
-- Solved Week 9 practice problems: Library Catalog Lookup (logarithmic binary search on sorted ISBN records), Warehouse Grid Summary (2D matrix traversal and maximum coordinates identification), Pair With Target Sum (linear time hash set complement lookup), Pair Target Sum Unsorted Array (hash map index mapping), and Maximize Area Between Two Boundaries (optimal two-pointer container with most water).
+- Covered Data Structures & Algorithms (DSA): 1D & 2D Arrays, Asymptotic Analysis (Big-O, Time vs. Space Trade-offs), Binary Search, Two-Pointer, and Sliding Window Techniques.
+- Solved Week 9 class problems: Library Catalog Lookup (logarithmic binary search on sorted ISBN records), Warehouse Grid Summary (2D matrix traversal and maximum coordinates identification), Pair With Target Sum (linear time hash set complement lookup), Pair Target Sum Unsorted Array (hash map index mapping), and Maximize Area Between Two Boundaries (optimal two-pointer container with most water).
+- Solved Week 9 Category B assignment problems: Class Topper Finder (2D marks array evaluation with lowest-index tie breaking), Merging Two Token Queues (linear two-pointer sorted array merging), Most Popular Canteen Order (frequency hash map with original arrival tie breaking), Hot Weather Alert Windows (sliding window sum accumulator without division), and Ticket Price Slot Finder (binary search lower-bound insertion index).
 - Answered Week 9 quiz questions and comprehensive concept questions on sorted vs. unsorted array search complexity, Big-O constant multiplier omission, and traversal divergence between linear vs. non-linear data structures.
 
 **Next Session Plan:**
-- Prepare for Session 9 assignment problems.
+- Prepare for Session 10 topics.
 
 **Issues Faced:**
 - None
