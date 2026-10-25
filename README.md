@@ -1,5 +1,20 @@
 # Step_semester_3
 
+## Date: 25-10-2026
+
+**Today's Work:**
+- Covered Data Structures & Algorithms (DSA): 1D & 2D Arrays, Asymptotic Analysis (Big-O, Time vs. Space Trade-offs), Binary Search, and Two-Pointer / Hashing Techniques.
+- Solved Week 9 practice problems: Library Catalog Lookup (logarithmic binary search on sorted ISBN records), Warehouse Grid Summary (2D matrix traversal and maximum coordinates identification), Pair With Target Sum (linear time hash set complement lookup), Pair Target Sum Unsorted Array (hash map index mapping), and Maximize Area Between Two Boundaries (optimal two-pointer container with most water).
+- Answered Week 9 quiz questions and comprehensive concept questions on sorted vs. unsorted array search complexity, Big-O constant multiplier omission, and traversal divergence between linear vs. non-linear data structures.
+
+**Next Session Plan:**
+- Prepare for Session 9 assignment problems.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 01-10-2026
 
 **Today's Work:**
