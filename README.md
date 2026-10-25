@@ -3,6 +3,21 @@
 ## Date: 25-10-2026
 
 **Today's Work:**
+- Covered Advanced OOP Architecture, Polymorphism, Type Systems, Interface Contracts, and Data Structures Integration.
+- Solved Week 10 practice problems: Bank Account Withdrawal System (polymorphic account rules, minimum balance & overdraft management), Campus Vehicle Pass System (vehicle hierarchy with Chargeable interface for electric bay allotment), Student Club Registration Management (roll-number based content equality via equals() and hashCode()), Class Marks Grid Analysis (2D array statistics, student totals, subject averages, and topper identification), and Payroll Register System (polymorphic staff salary calculation and payslip formatting).
+- Answered Week 10 quiz questions (20 questions) and comprehensive concept questions (10 questions) on method resolution, constructor chaining, abstract classes vs interfaces, equals/hashCode contract, deep copying, and dynamic method dispatch.
+
+**Next Session Plan:**
+- Prepare for Session 10 assignment problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 25-10-2026
+
+**Today's Work:**
 - Covered Data Structures & Algorithms (DSA): 1D & 2D Arrays, Asymptotic Analysis (Big-O, Time vs. Space Trade-offs), Binary Search, Two-Pointer, and Sliding Window Techniques.
 - Solved Week 9 class problems: Library Catalog Lookup (logarithmic binary search on sorted ISBN records), Warehouse Grid Summary (2D matrix traversal and maximum coordinates identification), Pair With Target Sum (linear time hash set complement lookup), Pair Target Sum Unsorted Array (hash map index mapping), and Maximize Area Between Two Boundaries (optimal two-pointer container with most water).
 - Solved Week 9 Category B assignment problems: Class Topper Finder (2D marks array evaluation with lowest-index tie breaking), Merging Two Token Queues (linear two-pointer sorted array merging), Most Popular Canteen Order (frequency hash map with original arrival tie breaking), Hot Weather Alert Windows (sliding window sum accumulator without division), and Ticket Price Slot Finder (binary search lower-bound insertion index).
